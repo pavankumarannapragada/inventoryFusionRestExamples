@@ -1,2 +1,2 @@
 # inventoryFusionRestExamples
-This project contains the example java code to call Rest APIs Fusion Inventorymanagement.
+This project contains the example java code to load CSV data (FBDI data) for Inventory Management objects using the Erp Integration Service.
